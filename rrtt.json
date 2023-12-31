@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "emerald-energy-409416",
+  "private_key_id": "8b7400d4d103a2405080dfe85d1ba96aa6b5328a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCtYIux8rvcRT6u\n3Uo4Sz+6r71IbF7+p/HJy0QK8/pvi8EJSdD20hiUXz31bTBXGy9tvBHKWVtFiEmc\n1fGbjUQNrNe9TQ+gwSYrQxftV/Z6JIIn98DnCNP0qY/iGDOc0CqyHHjVYmAyzOQx\nxnM/ve77VNdbXjD8zH89mojB4V/AJ2gbBJWX4azAJ7jldnmzsj754pUcESd/NI69\ncq10PHtCN+wtkMmetAdrkRphSL2LCuyVAlFxbEaeqhkyIYkN47C1lQJQXoj+URTL\nc421N/p/UGLIqxfa6EIeZIOoCDJaW3yQVl7O4HpWhpTupKVVR49GVJ3nZ+csbGt0\nHu55eITVAgMBAAECgf9X9eDVPh3TwZ+vfhrDLQPBvVLP3Ctf/RxSMDRfbrAlBiih\ntrLSrzU50+UBs3g5XPfcBmV7GqdSbFe5RFbfBNbT29z0iZ8H+gB33e5kcY4VxfUP\nhSfT5fiYmMpICZjeKTlrnotx392SOkyV1X9G4cPDljMc/stMV335FQdrvClIkEYv\ntQz+QF7HqKdeZXKu9m5fgaxRcflge1xQ+eQ8VdI3RGGtSmyGu7AZAc1/DJFkmbuF\nyy4GMxL3Ivl5BJUnCPpnNCmtenfl4pAi1BrrQFrpWQCdb0ZwzhfktxSyX4eBB+3b\nt77johM3OytGpokYeXzoPtCKPPtTJzJqo/GBNxUCgYEA1VKnem9PPeJDaJBTGGRT\n0ir+/1TmLuQpak5e7LOnbPiXYcJyST7hxNbseIN1xY46fzud+NRo5+EoSTVY+hIZ\nMjACFQPZxcmedeDxXaf/fVSg6KthOametP5PKxNRoLKMVGotnN/FMm0f+/UtDoyS\nXgoVXvmuDKGDuMDSnd+G3FMCgYEA0BARWDiIfgV9/UH1spi/9pfSiwHAMeFWy9Gs\n7W6xAvOsSw+ZS9T8fc8dTJehpQqsduIDU4g9XJoV/wmmT5L5nu3q5yV9TNTq840E\nv2k8cVWwMtYFacCK9mv90q8EzsN7cKpdGdRDZzHOEXhxaqjqILbmJphkx51UJ/+L\nJuxWNTcCgYAsg+8HEatLkqfWbieo82a6eNZ1mdXe+yXZVTlh06ughc+xSs5mkoSy\netcl3uj4rNFwM5SnlEu/97BcdpF2vcgcPQByOjd7mrNCjgpQLPqXwM1DQGAtlEPW\nKSuEJafnDNtT0kRqdBfGihcekO8yFguFLD2BcEDtydae+z34S+jsmQKBgG0hsGdM\np9MqAE6BdWUrF605Lxb4YR4IquUXYpPbNn9s3lc0pFyRJ6q5ow2UjxWpRpLIs6Px\n1vWmYJk4L4KXfdTtyANbt6BAIciDlBTuFuT/Y/8WIRq6AmmEdUs3v9bP1ARhZ5nv\nqzcKeaLSQPMIDF4CcS+XSW0mSYj9UbilyAX7AoGBAJTiBI1PtnQuQMWawO2TDj0w\nodQrwCGBIfKTZPGUqFl+yokPC3Gw7tJr7l0b++74X/+ts134UCcdaJe5UJw26DCN\nAwb4cFVOzvdBd418/8Gww4PUywSzRQzFHY5PKxrLn/uPCdP6WpZtUIzeNGoFDJVS\n3tOyMUxlhenkoha/waFb\n-----END PRIVATE KEY-----\n",
+  "client_email": "testtestets@emerald-energy-409416.iam.gserviceaccount.com",
+  "client_id": "109916332365724401307",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/testtestets%40emerald-energy-409416.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
